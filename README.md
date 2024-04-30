@@ -1,1 +1,2 @@
 # LeaveManagement
+This Java project aims to streamline the leave management process within an organization. It allows students to request leaves, managers to approve or reject leave requests, and administrators to oversee the entire process. The system includes features such as user authentication, leave request submission, leave approval workflow, leave balance tracking, and reporting functionalities. It enhances efficiency, transparency, and accountability in managing student leaves.
